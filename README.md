@@ -3,7 +3,7 @@
 
 **Short Description:**
 
-This is a web application that allows users to build a burger from available ingredients such as meat, cheese, salad, and bacon. The application provides a real-time visualization of the burger, calculates the quantity of each ingredient, and displays the total price of the assembled burger. Users can add and remove ingredients using buttons.
+The Vigenère cipher application includes three text fields: one for entering or displaying the decoded message, one for entering the password (keyword), and one for the encoded message. Arrow buttons allow switching between encryption and decryption modes or transferring data between the fields.
 
 ## 🚀 Technologies
 
